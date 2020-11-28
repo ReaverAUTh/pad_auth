@@ -1,6 +1,7 @@
 <p align="center">
   <img width="600" height="257" src="https://i.imgur.com/IwFaU2n.png">
 </p>
+
 # Parallel-Exercise1
 
 **mmio.c** and **mmio.h** are used to extract the info from the .mtx files.
